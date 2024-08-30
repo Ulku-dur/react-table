@@ -1,0 +1,48 @@
+# React Sidebar Menu Project
+
+This project is a React-based sidebar menu application, developed by following the tutorial on [YouTube](https://www.youtube.com/watch?v=MINQoCSBmds&t=983s). The sidebar menu is designed to be responsive and user-friendly, utilizing modern React features such as hooks and context API.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Responsive sidebar menu.
+- React Hooks for state management.
+- Dynamic route handling.
+- CSS styling with modern design principles.
+
+## Installation
+
+To get started with this project, follow these steps:
+
+1. **Clone the repository**:
+
+    ```bash
+    git clone https://github.com/your-username/react-sidebar-menu.git
+    ```
+
+2. **Navigate to the project directory**:
+
+    ```bash
+    cd react-sidebar-menu
+    ```
+
+3. **Install the dependencies**:
+
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+To run the project locally:
+
+```bash
+npm start
