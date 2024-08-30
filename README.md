@@ -1,7 +1,5 @@
 # React Sidebar Menu Project
 
-This project is a React-based sidebar menu application, developed by following the tutorial on [YouTube](https://www.youtube.com/watch?v=MINQoCSBmds&t=983s). The sidebar menu is designed to be responsive and user-friendly, utilizing modern React features such as hooks and context API.
-
 ## Table of Contents
 
 - [Features](#features)
